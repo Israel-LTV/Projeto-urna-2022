@@ -3,4 +3,4 @@
 
 :email: gilvanemarlucia@gmail.com
 
-O trabalho será realizado em dupla para entrega no final de outubro 2022 com toda funcionalidade
+O trabalho será realizado em dupla para entrega no final de outubro 2022 com todas as funcionalidades.
